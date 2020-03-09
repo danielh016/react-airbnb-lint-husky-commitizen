@@ -31,7 +31,7 @@ to make sure commitizen works on your device.
 Right before you start implementing, please do either `yarn install` or `npm install` (choose one of them, of course) to install all the dependencies
 After all the dependencies were install (in `/node_modules`), you can start playing with your application with `yarn start`
 
-## If you want to know more about linting
+## To know more:
 
-You can read on this [article]():
+You can read on this article:
 [中文版](https://medium.com/@danielhu95/set-up-eslint-pipeline-zh-tw-990d7d9eb68e)
